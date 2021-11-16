@@ -10,7 +10,7 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
-    "aws-sdk": "^2.680.0",
+    "aws-sdk": "^2.814.0",
     "bluebird": "^3.7.2",
     "dotenv": "^8.2.0",
     "git-last-commit": "^1.0.0"
